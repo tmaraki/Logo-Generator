@@ -23,7 +23,7 @@ Refer to the screenshot below ("terminal") for selecting the correct folder to o
 
 ![terminal](./assets/screenshot_terminal.png)
 
-Here is a walk through video: 
+Here is a walk through video: https://drive.google.com/file/d/19Wfd2AFQk1LGOa0srRqRM2b63M_lbfIe/view?usp=sharing
 
 ## Credits
 - Huge shout out to Thomas Calle! He created a youtube video and shared his repo for beginners, like myself, to reference:
